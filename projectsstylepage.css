@@ -2,6 +2,7 @@
         width: 1000px;
         margin: 30px;
         background-color: burlywood;
+        font-family:"Barlow";
 
         display: grid;
         grid-template-columns: 150px,150px,150px;
@@ -15,6 +16,7 @@
         background-color: brown;
         padding: 30px;
         color: whitesmoke;
+        
 
     } 
 
