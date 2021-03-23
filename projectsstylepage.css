@@ -25,7 +25,7 @@
     .item--1 {
         grid-column: 3/5;
         grid-row: 3/30;
-        color: burlywood;  
+        color: whitesmoke;  
 
     }
 
@@ -38,7 +38,7 @@
     .item--3 {
         grid-column: 3/5;
         grid-row: 30/60;
-        color: burlywood; 
+        color: whitesmoke; 
         
     }
 
