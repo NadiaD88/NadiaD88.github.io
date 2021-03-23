@@ -33,6 +33,8 @@
         
         grid-column: 1/3;
         grid-row: 30/60;
+        color: whitesmoke;  
+        
     }
 
     .item--3 {
@@ -47,6 +49,7 @@
         grid-column: 1/3;
         grid-row: 3/30;
         text-decoration: none;
+        color: whitesmoke;  
         
     }
 
@@ -54,11 +57,13 @@
 
         grid-column: 3/5;
         grid-row: 3/30;
+        color: whitesmoke;  
         
     }
 
     .item--6 {
         grid-column: 1/7;
+        color: whitesmoke;  
         
     }
 
