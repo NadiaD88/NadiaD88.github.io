@@ -25,9 +25,7 @@
     .item--1 {
         grid-column: 3/5;
         grid-row: 3/30;
-        color: burlywood;
-        text-decoration: none; /* no underline */
-          
+        color: burlywood;  
 
     }
 
@@ -40,6 +38,7 @@
     .item--3 {
         grid-column: 3/5;
         grid-row: 30/60;
+        color: burlywood; 
         
     }
 
