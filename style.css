@@ -123,3 +123,8 @@ color: whitesmoke;
     margin-left: 0%;
 }
 
+.link-style {
+    text-decoration: none;
+    color: grey;
+    font-weight: 150px;
+}
